@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(25,25,25);
+  color: white;
+  font-family: Arial;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.emoji-icon {
+  height: 50px;
+}
+
+.move-icon {
+  background-color: transparent;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  border: 3px solid white;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.result-text {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+.reset-score-button {
+  background-color: white;
+  padding: 8px 15px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
